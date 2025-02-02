@@ -159,7 +159,7 @@
 
     <!-- BASIC SECURITY ROLES AND CONSTRAINTS -->
 
-    <security-role>
+<!--     <security-role>
 
         <role-name>testing</role-name>
 
@@ -253,7 +253,7 @@
             <role-name>grp3</role-name>
             <role-name>grp4</role-name>
             <role-name>grp5</role-name>
-            <role-name>webSecOnly</role-name>
+            <role-name>AllAuthenticated</role-name>
         </auth-constraint>
     </security-constraint>
     <security-role>
@@ -261,8 +261,8 @@
             All Authenticated Users
         </description>
         <role-name>AllAuthenticated</role-name>
-    </security-role>
-    <security-role>
+    </security-role> -->
+<!--     <security-role>
         <description>
             Group 1
         </description>
@@ -297,11 +297,11 @@
             WebSecOnly
         </description>
         <role-name>webSecOnly</role-name>
-    </security-role>
+    </security-role> -->
 
-    <login-config>
+<!--     <login-config>
 
         <auth-method>BASIC</auth-method>
 
-    </login-config>	    
+    </login-config>	     -->
 </web-app>
