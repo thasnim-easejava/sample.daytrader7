@@ -159,7 +159,7 @@
 
     <!-- BASIC SECURITY ROLES AND CONSTRAINTS -->
 
-<!--     <security-role>
+    <security-role>
 
         <role-name>testing</role-name>
 
@@ -297,11 +297,11 @@
             WebSecOnly
         </description>
         <role-name>webSecOnly</role-name>
-    </security-role> -->
+    </security-role>
 
-<!--     <login-config>
+    <login-config>
 
         <auth-method>BASIC</auth-method>
 
-    </login-config>	     -->
+    </login-config>	    
 </web-app>
