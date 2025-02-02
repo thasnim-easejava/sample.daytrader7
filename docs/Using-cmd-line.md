@@ -5,7 +5,7 @@
 
 ```bash
 
-$ git clone https://github.com/WASdev/sample.daytrader7.git
+$ git clone https://github.com/WASdev/sample.daytrader7.git  
 
 ```
 
