@@ -20,7 +20,7 @@ This sample can be built using either [Gradle](#gradle-commands) or [Maven](#apa
 $ gradle build
 ```
 
-If you want to also run the functional tests then you need to [Download WAS Liberty](/docs/Downloading-WAS-Liberty.md) and set the libertyRoot property in the gradle.properties file to point to your Liberty install.
+If you want to also run the functional tests then you need  to [Download WAS Liberty](/docs/Downloading-WAS-Liberty.md) and set the libertyRoot property in the gradle.properties file to point to your Liberty install.
 
 ###### [Apache Maven](http://maven.apache.org/) commands
 
